@@ -1,9 +1,8 @@
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 # Airbnb JavaScript Style Guide() {
-**Bài viết hướng dẫn hợp lý nhất** [Airbnb](https://github.com/airbnb/javascript)
+**Bài viết gốc** [Airbnb](https://github.com/airbnb/javascript)
 
->Tôi làm bản dịch này để đọc giả có thể hiểu rõ hơn về nội dung. Nếu trong quá trình đọc, độc giả phát hiện bất kỳ lỗi nào vui lòng tạo một issue mới hoặc liên hệ với tôi [Giang Nguyen](nguyengiangdev@gmail.com)
 
 <a name="table-of-contents"></a>
 ## Table of Contents
