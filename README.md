@@ -46,7 +46,7 @@
 
 ## Types
   
-  - [1.1](#1.1) <a name='1.1'></a> **Primitives**: Khi sử dụng biến có thể truy cập nó bằng cách tham chiếu đến các giá trị của biến.
+  - [1.1](#1.1) <a name='1.1'></a> **Primitives**:  Khi bạn truy cập các kiểu dữ liệu nguyên thủy, bạn làm việc trực tiếp với giá trị của biến (tham trị).
 
     + `string`
     + `number`
@@ -63,7 +63,7 @@
     console.log(foo, bar); // => 1, 9
     ```
 
-  - [1.2](#1.2) <a name='1.2'></a> **Complex**: Khi biến rất phức tạp có thể truy cập nó bằng cách tham chiếu đến các giá trị của các biến khác.
+  - [1.2](#1.2) <a name='1.2'></a> **Complex**: Khi bạn làm việc với các kiểu dữ liệu phức tạp, bạn làm việc gián tiếp với giá trị của biến thông qua địa chỉ vùng nhớ của nó (tham chiếu). 
 
     + `object`
     + `array`
